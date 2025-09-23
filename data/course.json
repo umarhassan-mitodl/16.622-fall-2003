@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Science"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "83058296-21bc-a146-7191-53eedc385826",
+  "instructors": {
+    "content": [
+      "419a16c1-a19f-65b4-17ad-fa6b98ad3c40",
+      "7f446983-af44-a4f2-7ea4-a13372b97f4f",
+      "a8f81254-5aac-4e1b-116b-6ed8d13e5f90"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a4d12fd9-efd5-d60f-3e44-642079636462",
+    "website": "16-622-experimental-projects-ii-fall-2003"
+  },
+  "course_title": "Experimental Projects II",
+  "course_description": "The Experimental Project Lab in the Department of Aeronautics and Astronautics is a two-semester course sequence: _[16.621 Experimental Projects I](/courses/16-621-experimental-projects-i-spring-2003/)_ and _16.622 Experimental Projects II_ (this course). Students in 16.622 gain practical insight and improved understanding of engineering experimentation through design and execution of \"project\" experiments. Building upon work in course 16.621, students construct and test equipment, make systematic experimental measurements of phenomena, analyze data, and compare theoretical predictions with results. Deliverables comprise a written final project report and formal oral presentations. Instructions on oral presentations and multi-section reporting are given. Experimental Projects I and II provide a valuable link between theory (16.621) and practice (16.622).\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.622",
+  "course_image_thumbnail": {
+    "content": "f6a4b43b-1411-ac20-7d43-b5bd7f17c9a2",
+    "website": "16-622-experimental-projects-ii-fall-2003"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "13e808d7-def5-4bd3-8065-fd8f3a80f118",
+  "site_short_id": "16.622-fall-2003",
+  "site_url_path": "courses/16-622-experimental-projects-ii-fall-2003",
+  "title": "Course Metadata"
+}
