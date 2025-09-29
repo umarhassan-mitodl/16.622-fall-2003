@@ -4,6 +4,8 @@ description: This file includes final reports by Kathleen McCoy and Darlene Utte
 file: /courses/16-622-experimental-projects-ii-fall-2003/cd62234d5f8d5c1f0e5dfd56dcc81d05_mccoy_and_utter.pdf
 file_size: 798374
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

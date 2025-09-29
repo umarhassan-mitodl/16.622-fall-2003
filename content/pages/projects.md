@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -38,7 +40,7 @@ Bennett, Fall 2002 ({{% resource_link 284f07cd-b164-b922-7ae9-e82e30c46a3c "PDF"
 {{< tdclose >}}
 {{< tdopen >}}
 Spring 2003  
-Presentation Video ({{% resource_link "1feaf5a0-2904-427e-86f0-0e0d1b40e476" "MP4 - 29 MB" %}})  
+Presentation Video ([MP4 - 29 MB](https://archive.org/download/MIT16.662F03/mit16622abPresMay03-220k.mp4))  
   
 Accompanying Slides ({{% resource_link a645ba68-57af-aea1-091f-e64d9e1e0d7a "PDF" %}}) Courtesy of Stefano Alziati and Warren Bennett.
 {{< tdclose >}}

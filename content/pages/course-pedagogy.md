@@ -3,6 +3,8 @@ content_type: page
 description: This section describes the Experimental Projects course sequence. The
   logistics of running 16.621 and 16.622 in parallel, and the differences between
   them, are explained.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Pedagogy
