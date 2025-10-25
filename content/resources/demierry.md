@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/45f50421c090cab76135960691bb0fd1_demierry.pdf
 file_size: 853035
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

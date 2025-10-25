@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/8f950cb34e4a44d48afed7528f521d9a_nyenke_chinwe.pdf
 file_size: 429082
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

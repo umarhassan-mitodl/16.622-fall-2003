@@ -37,7 +37,6 @@
     "website": "16-622-experimental-projects-ii-fall-2003"
   },
   "course_title": "Experimental Projects II",
-  "hide_download": true,
   "course_description": "The Experimental Project Lab in the Department of Aeronautics and Astronautics is a two-semester course sequence: _[16.621 Experimental Projects I](/courses/16-621-experimental-projects-i-spring-2003/)_ and _16.622 Experimental Projects II_ (this course). Students in 16.622 gain practical insight and improved understanding of engineering experimentation through design and execution of \"project\" experiments. Building upon work in course 16.621, students construct and test equipment, make systematic experimental measurements of phenomena, analyze data, and compare theoretical predictions with results. Deliverables comprise a written final project report and formal oral presentations. Instructions on oral presentations and multi-section reporting are given. Experimental Projects I and II provide a valuable link between theory (16.621) and practice (16.622).\n",
   "department_numbers": [
     "16"
@@ -48,7 +47,6 @@
     "content": "f6a4b43b-1411-ac20-7d43-b5bd7f17c9a2",
     "website": "16-622-experimental-projects-ii-fall-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples"
   ],

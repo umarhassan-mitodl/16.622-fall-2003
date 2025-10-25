@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/284f07cdb164b9227ae9e82e30c46a3c_bennettw.pdf
 file_size: 887393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

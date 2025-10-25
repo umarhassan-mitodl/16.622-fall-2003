@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/5c8aab278a22e1fd3f3b1df51d467496_syllabus_f03.pdf
 file_size: 173060
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
